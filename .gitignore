@@ -1,36 +1,35 @@
-# History files
-.Rhistory
-.Rapp.history
+*.xlsx
+*.mwb
+*.DS_Store
+*.bat
+*.sh
 
-# Session Data files
-.RData
+## Ignore Go
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+## We remove the folder containing the newest instance of the complete import.
+data/
 
-# Example code in package build process
-*-Ex.R
+# Test binary, build with `go test -c`
+*.test
 
-# Output files from R CMD build
-/*.tar.gz
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
 
-# Output files from R CMD check
-/*.Rcheck/
+# Project-local glide cache, RE: https://github.com/Masterminds/glide/issues/736
+.glide/
 
-# RStudio files
-.Rproj.user/
 
-# produced vignettes
-vignettes/*.html
-vignettes/*.pdf
+#Gzips
+*.gz
 
-# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
-.httr-oauth
 
-# knitr and R markdown default cache directories
-/*_cache/
-/cache/
-
-# Temporary files created by R markdown
-*.utf8.md
-*.knit.md
-
-# Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
-rsconnect/
+#Windows dgraph
+*.exe
+p/
+w/
+zw/
+pics/jigsaw/done/*
