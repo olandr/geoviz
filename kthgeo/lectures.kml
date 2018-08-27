@@ -1,189 +1,188 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
-  <Document>
+
     <Placemark>
-			<hall>B1</hall>
-			<campus>KTH Campus</campus>
+			<Name>B1</Name>
+			<Description>KTH Description</Description>
 			<level>2</level>
 			<Point>
-				<coordinates>59.3541666666667,18.0647222222222</coordinates>
+				<coordinates>18.0647222222222,59.3541666666667</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<hall>B2</hall>
-			<campus>KTH Campus</campus>
+			<Name>B2</Name>
+			<Description>KTH Description</Description>
 			<level>1</level>
 			<Point>
-				<coordinates>59.3516666666667,18.0686111111111</coordinates>
+				<coordinates>18.0686111111111,59.3516666666667</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<hall>B3</hall>
-			<campus>KTH Campus</campus>
+			<Name>B3</Name>
+			<Description>KTH Description</Description>
 			<level>1</level>
 			<Point>
-				<coordinates>59.3516666666667,18.0686111111111</coordinates>
+				<coordinates>18.0686111111111,59.3516666666667</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<hall>D1</hall>
-			<campus>KTH Campus</campus>
+			<Name>D1</Name>
+			<Description>KTH Description</Description>
 			<level>6</level>
 			<Point>
-				<coordinates>59.3466666666667,18.0738888888889</coordinates>
+				<coordinates>18.0738888888889,59.3466666666667</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<hall>D2</hall>
-			<campus>KTH Campus</campus>
+			<Name>D2</Name>
+			<Description>KTH Description</Description>
 			<level>3</level>
 			<Point>
-				<coordinates>59.3466666666667,18.0738888888889</coordinates>
+				<coordinates>18.0738888888889,59.3466666666667</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<hall>D3</hall>
-			<campus>KTH Campus</campus>
+			<Name>D3</Name>
+			<Description>KTH Description</Description>
 			<level>3</level>
 			<Point>
-				<coordinates>59.3466666666667,18.0738888888889</coordinates>
+				<coordinates>18.0738888888889,59.3466666666667</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<hall>E1</hall>
-			<campus>KTH Campus</campus>
+			<Name>E1</Name>
+			<Description>KTH Description</Description>
 			<level>2</level>
 			<Point>
-				<coordinates>59.3469444444444,18.0730555555556</coordinates>
+				<coordinates>18.0730555555556,59.3469444444444</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<hall>E2</hall>
-			<campus>KTH Campus</campus>
+			<Name>E2</Name>
+			<Description>KTH Description</Description>
 			<level>3</level>
 			<Point>
-				<coordinates>59.3469444444444,18.0730555555556</coordinates>
+				<coordinates>18.0730555555556,59.3469444444444</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<hall>E3</hall>
-			<campus>KTH Campus</campus>
+			<Name>E3</Name>
+			<Description>KTH Description</Description>
 			<level>5</level>
 			<Point>
-				<coordinates>59.3469444444444,18.0730555555556</coordinates>
+				<coordinates>18.0730555555556,59.3469444444444</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<hall>F1</hall>
-			<campus>KTH Campus</campus>
+			<Name>F1</Name>
+			<Description>KTH Description</Description>
 			<level>2</level>
 			<Point>
-				<coordinates>59.3483333333333,18.0747222222222</coordinates>
+				<coordinates>18.0747222222222,59.3483333333333</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<hall>F2</hall>
-			<campus>KTH Campus</campus>
+			<Name>F2</Name>
+			<Description>KTH Description</Description>
 			<level>2</level>
 			<Point>
-				<coordinates>59.3483333333333,18.0738888888889</coordinates>
+				<coordinates>18.0738888888889,59.3483333333333</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<hall>F3</hall>
-			<campus>KTH Campus</campus>
+			<Name>F3</Name>
+			<Description>KTH Description</Description>
 			<level>2</level>
 			<Point>
-				<coordinates>59.3483333333333,18.0738888888889</coordinates>
+				<coordinates>18.0738888888889,59.3483333333333</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<hall>K1</hall>
-			<campus>KTH Campus</campus>
+			<Name>K1</Name>
+			<Description>KTH Description</Description>
 			<level>3</level>
 			<Point>
-				<coordinates>59.3502777777778,18.0747222222222</coordinates>
+				<coordinates>18.0747222222222,59.3502777777778</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<hall>K2</hall>
-			<campus>KTH Campus</campus>
+			<Name>K2</Name>
+			<Description>KTH Description</Description>
 			<level>5</level>
 			<Point>
-				<coordinates>59.3491666666667,18.0747222222222</coordinates>
+				<coordinates>18.0747222222222,59.3491666666667</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<hall>L1</hall>
-			<campus>KTH Campus</campus>
+			<Name>L1</Name>
+			<Description>KTH Description</Description>
 			<level>3</level>
 			<Point>
-				<coordinates>59.35,18.0691666666667</coordinates>
+				<coordinates>18.0691666666667,59.35</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<hall>M1</hall>
-			<campus>KTH Campus</campus>
+			<Name>M1</Name>
+			<Description>KTH Description</Description>
 			<level>2</level>
 			<Point>
-				<coordinates>59.3536111111111,18.0652777777778</coordinates>
+				<coordinates>18.0652777777778,59.3536111111111</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<hall>M2</hall>
-			<campus>KTH Campus</campus>
+			<Name>M2</Name>
+			<Description>KTH Description</Description>
 			<level>2</level>
 			<Point>
-				<coordinates>59.3536111111111,18.0652777777778</coordinates>
+				<coordinates>18.0652777777778,59.3536111111111</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<hall>M3</hall>
-			<campus>KTH Campus</campus>
+			<Name>M3</Name>
+			<Description>KTH Description</Description>
 			<level>2</level>
 			<Point>
-				<coordinates>59.3536111111111,18.0652777777778</coordinates>
+				<coordinates>18.0652777777778,59.3536111111111</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<hall>Q1</hall>
-			<campus>KTH Campus</campus>
+			<Name>Q1</Name>
+			<Description>KTH Description</Description>
 			<level>3</level>
 			<Point>
-				<coordinates>59.3502777777778,18.0666666666667</coordinates>
+				<coordinates>18.0666666666667,59.3502777777778</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<hall>Q2</hall>
-			<campus>KTH Campus</campus>
+			<Name>Q2</Name>
+			<Description>KTH Description</Description>
 			<level>2</level>
 			<Point>
-				<coordinates>59.3497222222222,18.0666666666667</coordinates>
+				<coordinates>18.0666666666667,59.3497222222222</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<hall>U1</hall>
-			<campus>KTH Campus</campus>
+			<Name>U1</Name>
+			<Description>KTH Description</Description>
 			<level>6</level>
 			<Point>
-				<coordinates>59.3511111111111,18.0702777777778</coordinates>
+				<coordinates>18.0702777777778,59.3511111111111</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<hall>FD5</hall>
-			<campus>AlbaNova</campus>
+			<Name>FD5</Name>
+			<Description>AlbaNova</Description>
 			<level>5</level>
 			<Point>
-				<coordinates>59.3538888888889,18.0583333333333</coordinates>
+				<coordinates>18.0583333333333,59.3538888888889</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<hall>FR4</hall>
-			<campus>AlbaNova</campus>
+			<Name>FR4</Name>
+			<Description>AlbaNova</Description>
 			<level>4</level>
 			<Point>
-				<coordinates>59.3538888888889,18.0583333333333</coordinates>
+				<coordinates>18.0583333333333,59.3538888888889</coordinates>
 			</Point>
 		</Placemark>
-  <Document>
 </kml>

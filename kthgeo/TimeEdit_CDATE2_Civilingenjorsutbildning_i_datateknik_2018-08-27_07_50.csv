@@ -1,0 +1,235 @@
+Startdatum,Starttid,Slutdatum,Sluttid,Aktivitet,Grupp,Tillfälleskod/kurskod,Lokal,Info,Personal,Program/klass 
+2018-08-27,16:00,2018-08-27,18:00,Föreläsning,,IS1500,M1,,David Broman,"CDATE2, CLGYM2-TIKT"
+2018-08-29,12:00,2018-08-29,13:00,Föreläsning,,"DD1390, DD1391",Q1,,Viggo Kann,CDATE2
+2018-08-29,13:00,2018-08-29,15:00,Föreläsning,,IS1500,Q1,,David Broman,"CDATE2, CLGYM2-TIKT"
+2018-08-30,08:00,2018-08-30,10:00,Föreläsning,,IS1500,Q1,,David Broman,"CDATE2, CLGYM2-TIKT"
+2018-08-30,10:00,2018-08-30,12:00,Föreläsning,DD1368 Helklass,DD1368,FR4,,Dena Hussain,"CDATE2, CLGYM3-TIKT"
+2018-08-30,13:00,2018-08-30,15:00,Föreläsning,,ME1010,F2,,Maria Lindhagen,CDATE2
+2018-08-31,10:00,2018-08-31,12:00,Föreläsning,,ME1010,E1,,Maria Lindhagen,CDATE2
+2018-09-03,10:00,2018-09-03,12:00,Övning,"IS1500 grupp C, IS1500 grupp D",IS1500,"Q33, Q34",,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-09-03,13:00,2018-09-03,15:00,Övning,"IS1500 grupp A, IS1500 grupp B",IS1500,"Q33, Q34",,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-09-03,15:00,2018-09-03,17:00,Föreläsning,,ME1010,E1,,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-09-04,13:00,2018-09-04,15:00,Föreläsning,DD1368 Helklass,DD1368,FR4,,Dena Hussain,"CDATE2, CLGYM3-TIKT"
+2018-09-05,12:00,2018-09-05,13:00,Övning,,IS1500,U21,,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-09-05,15:00,2018-09-05,17:00,Föreläsning,DD1351 Helklass,DD1351,E1,,Johan Karlander,"CDATE2, CINTE2, CINTE3"
+2018-09-06,08:00,2018-09-06,10:00,Föreläsning,DD1351 Helklass,DD1351,Q1,,Johan Karlander,"CDATE2, CINTE2, CINTE3"
+2018-09-06,15:00,2018-09-06,17:00,Föreläsning,,IS1500,D1,,David Broman,"CDATE2, CLGYM2-TIKT"
+2018-09-07,10:00,2018-09-07,12:00,Föreläsning,DD1368 Helklass,DD1368,FR4,,Dena Hussain,CDATE2
+2018-09-07,13:00,2018-09-07,15:00,Föreläsning,,ME1010,E1,,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-09-07,15:00,2018-09-07,17:00,Övning,DD1351 Helklass,DD1351,"Q31, Q33, Q34, Q36",,"Alf Thomas Sjöland, Johan Karlander","CDATE2, CINTE2, CINTE3"
+2018-09-10,08:00,2018-09-10,12:00,Laboration,,IS1500,5O1Spe (Spelhallen),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-09-10,10:00,2018-09-10,12:00,Föreläsning,DD1368 Helklass,DD1368,FR4,,Dena Hussain,CDATE2
+2018-09-10,13:00,2018-09-10,15:00,Föreläsning,,ME1010,D1,,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-09-10,15:00,2018-09-10,19:00,Laboration,,IS1500,4V2Röd (Röd),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-09-11,08:00,2018-09-11,10:00,Föreläsning,DD1351 Helklass,DD1351,E1,,Johan Karlander,"CDATE2, CINTE2, CINTE3"
+2018-09-11,10:00,2018-09-11,12:00,Föreläsning,DD1368 Helklass,DD1368,Q1,,Dena Hussain,"CDATE2, CLGYM3-TIKT"
+2018-09-11,13:00,2018-09-11,17:00,Seminarium,,"DD1390, DD1390, DD1391, DD1391","1625, 4523, 523, F0, Interaktionsdesignstudion",,"Christian Smith, Dena Hussain, Douglas Wikström, Johan Karlander, Mads Dam, Marcus Dicander, Mårten Björkman, Olof Bälter, Stefan Nilsson, Viggo Kann, Örjan Ekeberg","CDATE2, CDATE3, CDATE3-STEK"
+2018-09-12,08:00,2018-09-12,12:00,Laboration,,IS1500,5O1Spe (Spelhallen),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-09-12,12:00,2018-09-12,13:00,Övning,,IS1500,U21,,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-09-12,15:00,2018-09-12,17:00,Föreläsning,DD1351 Helklass,DD1351,E1,,Alf Thomas Sjöland,"CDATE2, CINTE2, CINTE3"
+2018-09-12,15:00,2018-09-12,19:00,Laboration,,IS1500,5V4Mag (Magenta),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-09-13,08:00,2018-09-13,12:00,Laboration,,IS1500,5O1Spe (Spelhallen),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-09-13,10:00,2018-09-13,12:00,Övning,DD1368 Helklass,DD1368,"Q22, Q24",,Dena Hussain,CDATE2
+2018-09-13,13:00,2018-09-13,17:00,Laboration,,IS1500,4V6Bru (Brun),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-09-13,13:00,2018-09-13,15:00,Övning,DD1368 Helklass,DD1368,"E35, E36",,Dena Hussain,CDATE2
+2018-09-14,08:00,2018-09-14,12:00,Laboration,,IS1500,5O1Spe (Spelhallen),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-09-14,13:00,2018-09-14,15:00,Föreläsning,,ME1010,F2,,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-09-14,13:00,2018-09-14,17:00,Laboration,,IS1500,5V2Kar (Karmosin),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-09-17,08:00,2018-09-17,10:00,Föreläsning,DD1351 Helklass,DD1351,Q1,,Alf Thomas Sjöland,"CDATE2, CINTE2, CINTE3"
+2018-09-17,10:00,2018-09-17,12:00,Övning,"IS1500 grupp A, IS1500 grupp B",IS1500,"Q33, Q34",,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-09-17,13:00,2018-09-17,15:00,Övning,"IS1500 grupp C, IS1500 grupp D",IS1500,"Q33, Q34",,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-09-17,15:00,2018-09-17,17:00,Föreläsning,,ME1010,E1,,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-09-18,10:00,2018-09-18,12:00,Föreläsning,DD1351 Helklass,DD1351,M1,,Alf Thomas Sjöland,"CDATE2, CINTE2, CINTE3"
+2018-09-18,13:00,2018-09-18,15:00,Föreläsning,DD1368 Helklass,DD1368,Q1,,Dena Hussain,CDATE2
+2018-09-19,08:00,2018-09-19,12:00,Laboration,,IS1500,5O1Spe (Spelhallen),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-09-19,12:00,2018-09-19,13:00,Övning,,IS1500,U41,,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-09-19,13:00,2018-09-19,17:00,Laboration,,IS1500,5O1Spe (Spelhallen),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-09-20,08:00,2018-09-20,12:00,Laboration,,IS1500,4V3Ora (Orange),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-09-20,08:00,2018-09-20,12:00,Övning,DD1368 Helklass,DD1368,"Q11, Q13, Q22, Q24",,Dena Hussain,CDATE2
+2018-09-20,13:00,2018-09-20,17:00,Laboration,,IS1500,5O1Spe (Spelhallen),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-09-20,13:00,2018-09-20,17:00,Övning,DD1368 Helklass,DD1368,"D35, E33, E35, E36",,Dena Hussain,CDATE2
+2018-09-21,10:00,2018-09-21,12:00,Övning,DD1351 Helklass,DD1351,"Q31, Q33, Q34, Q36",,"Alf Thomas Sjöland, Johan Karlander","CDATE2, CINTE2, CINTE3"
+2018-09-21,13:00,2018-09-21,17:00,Laboration,,IS1500,4V2Röd (Röd),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-09-24,08:00,2018-09-24,10:00,Föreläsning,DD1351 Helklass,DD1351,E1,,Alf Thomas Sjöland,"CDATE2, CINTE2, CINTE3"
+2018-09-24,10:00,2018-09-24,12:00,Föreläsning,,ME1010,E1,,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-09-24,13:00,2018-09-24,15:00,Föreläsning,,IS1500,Q1,,David Broman,"CDATE2, CLGYM2-TIKT"
+2018-09-24,15:00,2018-09-24,19:00,Laboration,,IS1500,5V2Kar (Karmosin),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-09-25,08:00,2018-09-25,10:00,Övning,,ME1010,"Q13, Q15, Q17",,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-09-25,10:00,2018-09-25,12:00,Föreläsning,,IS1500,Q1,,David Broman,"CDATE2, CLGYM2-TIKT"
+2018-09-25,13:00,2018-09-25,15:00,Övning,,ME1010,"Q11, Q13, Q21",,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-09-26,08:00,2018-09-26,12:00,Seminarium,,"DD1390, DD1391","1625, 4523, 523, F0, Interaktionsdesignstudion",,"Christian Smith, Dena Hussain, Douglas Wikström, Johan Karlander, Mads Dam, Marcus Dicander, Mårten Björkman, Olof Bälter, Stefan Nilsson, Viggo Kann, Örjan Ekeberg","CDATE1, CDATE2"
+2018-09-26,12:00,2018-09-26,13:00,Övning,,IS1500,U21,,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-09-26,13:00,2018-09-26,15:00,Föreläsning,,ME1010,M1,,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-09-26,15:00,2018-09-26,17:00,Föreläsning,DD1368 Helklass,DD1368,Q1,,Dena Hussain,"CDATE2, CLGYM3-TIKT"
+2018-09-27,08:00,2018-09-27,12:00,Laboration,,IS1500,5V2Kar (Karmosin),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-09-27,10:00,2018-09-27,12:00,Övning,DD1368 Helklass,DD1368,"E32, E33",,Dena Hussain,CDATE2
+2018-09-27,13:00,2018-09-27,17:00,Laboration,,IS1500,4V5Grö (Grön),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-09-27,13:00,2018-09-27,15:00,Övning,DD1368 Helklass,DD1368,"V11, V12",,Dena Hussain,CDATE2
+2018-09-28,08:00,2018-09-28,10:00,Datorlaboration,DD1351 Helklass,DD1351,"4V2Röd (Röd), 4V4Gul (Gul), 5O1Spe (Spelhallen), 5O2Spo (Sporthallen), 5V1Grå (Grå), 5V2Kar (Karmosin), 5V4Mag (Magenta)",,"Alf Thomas Sjöland, Johan Karlander","CDATE2, CINTE2, CINTE3"
+2018-09-28,10:00,2018-09-28,12:00,Övning,"IS1500 grupp C, IS1500 grupp D",IS1500,"Q33, Q34",,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-09-28,13:00,2018-09-28,15:00,Övning,"IS1500 grupp A, IS1500 grupp B",IS1500,"Q33, Q34",,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-09-28,15:00,2018-09-28,17:00,Föreläsning,DD1368 Helklass,DD1368,Q1,,Dena Hussain,"CDATE2, CLGYM3-TIKT"
+2018-10-01,08:00,2018-10-01,12:00,Laboration,DD1368 Helklass,DD1368,"4V5Grö (Grön), 5O1Spe (Spelhallen), 5O2Spo (Sporthallen), 5V2Kar (Karmosin)",,,CDATE2
+2018-10-01,13:00,2018-10-01,15:00,Föreläsning,,IS1500,F1 (Alfvénsalen),,David Broman,"CDATE2, CLGYM2-TIKT"
+2018-10-01,15:00,2018-10-01,17:00,Föreläsning,,IS1500,Q1,,David Broman,"CDATE2, CLGYM2-TIKT"
+2018-10-02,08:00,2018-10-02,12:00,Laboration,DD1368 Helklass,DD1368,"4V5Grö (Grön), 5O1Spe (Spelhallen), 5V2Kar (Karmosin), 5V4Mag (Magenta)",,,"CDATE2, CLGYM3-TIKT"
+2018-10-02,08:00,2018-10-02,12:00,Laboration,,IS1500,4V2Röd (Röd),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-10-02,13:00,2018-10-02,15:00,Föreläsning,DD1351 Helklass,DD1351,D1,,Johan Karlander,"CDATE2, CINTE2, CINTE3"
+2018-10-02,15:00,2018-10-02,17:00,Föreläsning,,ME1010,F2,,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-10-03,08:00,2018-10-03,12:00,Laboration,,IS1500,5O1Spe (Spelhallen),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-10-03,12:00,2018-10-03,13:00,Övning,,IS1500,U21,,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-10-03,15:00,2018-10-03,19:00,Laboration,,IS1500,5O1Spe (Spelhallen),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-10-03,15:00,2018-10-03,17:00,Övning,DD1351 Helklass,DD1351,"Q31, Q33, Q34, Q36",,"Alf Thomas Sjöland, Johan Karlander","CDATE2, CINTE2, CINTE3"
+2018-10-04,08:00,2018-10-04,12:00,Datorlaboration,DD1351 Helklass,DD1351,"4V2Röd (Röd), 4V5Grö (Grön), 4V6Bru (Brun), 5V1Grå (Grå), 5V2Kar (Karmosin), 5V3Vit (Vit), 5V4Mag (Magenta)",,"Alf Thomas Sjöland, Johan Karlander","CDATE2, CINTE2, CINTE3"
+2018-10-04,15:00,2018-10-04,17:00,Föreläsning,DD1368 Helklass,DD1368,Q1,,Dena Hussain,"CDATE2, CLGYM3-TIKT"
+2018-10-05,13:00,2018-10-05,15:00,Föreläsning,DD1351 Helklass,DD1351,E1,,Johan Karlander,"CDATE2, CINTE2, CINTE3"
+2018-10-08,08:00,2018-10-08,12:00,Övning,DD1368 Helklass,DD1368,"M23, M24, M36, U61",,Dena Hussain,"CDATE2, CLGYM3-TIKT"
+2018-10-08,10:00,2018-10-08,12:00,Övning,"IS1500 grupp A, IS1500 grupp B",IS1500,"V32, V34",,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-10-08,13:00,2018-10-08,17:00,Övning,DD1368 Helklass,DD1368,"D34, D35, D41, D42",,Dena Hussain,"CDATE2, CLGYM3-TIKT"
+2018-10-08,13:00,2018-10-08,15:00,Övning,"IS1500 grupp C, IS1500 grupp D",IS1500,"V32, V34",,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-10-08,15:00,2018-10-08,19:00,Laboration,,IS1500,5O1Spe (Spelhallen),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-10-09,08:00,2018-10-09,10:00,Övning,DD1351 Helklass,DD1351,"Q31, Q33, Q34, Q36",,"Alf Thomas Sjöland, Johan Karlander","CDATE2, CINTE2, CINTE3"
+2018-10-09,10:00,2018-10-09,12:00,Föreläsning,,IS1500,Q1,,David Broman,"CDATE2, CLGYM2-TIKT"
+2018-10-09,13:00,2018-10-09,15:00,Föreläsning,,ME1010,FR4,,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-10-09,15:00,2018-10-09,19:00,Laboration,,IS1500,5O1Spe (Spelhallen),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-10-10,08:00,2018-10-10,12:00,Laboration,,IS1500,4V6Bru (Brun),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-10-10,10:00,2018-10-10,12:00,Föreläsning,,ME1010,V2,,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-10-10,12:00,2018-10-10,13:00,Övning,,IS1500,U21,,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-10-10,13:00,2018-10-10,17:00,Datorlaboration,DD1351 Helklass,DD1351,"4V2Röd (Röd), 4V4Gul (Gul), 4V6Bru (Brun), 5V1Grå (Grå), 5V2Kar (Karmosin), 5V4Mag (Magenta)",,"Alf Thomas Sjöland, Johan Karlander","CDATE2, CINTE2, CINTE3"
+2018-10-11,10:00,2018-10-11,12:00,Information,,"DD1390, DD1391",,,,CDATE2
+2018-10-11,13:00,2018-10-11,15:00,Föreläsning,,IS1500,Q1,,David Broman,"CDATE2, CLGYM2-TIKT"
+2018-10-11,16:00,2018-10-11,18:00,"Mastermässa, U-huset, BV28A",,,,,,
+2018-10-12,08:00,2018-10-12,12:00,Laboration,DD1368 Helklass,DD1368,"4V3Ora (Orange), 4V5Grö (Grön), 5O1Spe (Spelhallen), 5O2Spo (Sporthallen)",,,"CDATE2, CLGYM3-TIKT"
+2018-10-12,08:00,2018-10-12,12:00,Laboration,,IS1500,5V2Kar (Karmosin),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-10-12,13:00,2018-10-12,17:00,Laboration,DD1368 Helklass,DD1368,"4V2Röd (Röd), 4V4Gul (Gul), 4V5Grö (Grön), 5V2Kar (Karmosin)",,,CDATE2
+2018-10-12,13:00,2018-10-12,17:00,Laboration,,IS1500,5V3Vit (Vit),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-10-25,08:00,2018-10-25,12:00,Tentamen,,ME1010,"F2, L1, L21, L22, L51, L52, V3",,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-10-29,08:00,2018-10-29,10:00,Övning,"IS1500 grupp C, IS1500 grupp D",IS1500,"V32, V34",,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-10-29,10:00,2018-10-29,12:00,Övning,"IS1500 grupp A, IS1500 grupp B",IS1500,"V32, V34",,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-10-29,12:00,2018-10-29,13:00,Information,,"DD1390, DD1391",D1,,Viggo Kann,CDATE2
+2018-10-29,15:00,2018-10-29,17:00,Föreläsning,,IS1500,F2,,David Broman,"CDATE2, CLGYM2-TIKT"
+2018-10-30,08:00,2018-10-30,10:00,Övning,"IS1500 grupp A, IS1500 grupp B",IS1500,"V32, V34",,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-10-30,10:00,2018-10-30,12:00,Föreläsning,DD1351 Helklass,DD1351,E1,,Johan Karlander,"CDATE2, CINTE2, CINTE3"
+2018-10-30,13:00,2018-10-30,15:00,Föreläsning,DD1368 Helklass,DD1368,M1,,Dena Hussain,CDATE2
+2018-10-30,15:00,2018-10-30,17:00,Övning,"IS1500 grupp C, IS1500 grupp D",IS1500,"V32, V34",,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-10-31,10:00,2018-10-31,12:00,Övning,DD1368 Helklass,DD1368,"V21, V23",,Dena Hussain,"CDATE2, CLGYM3-TIKT"
+2018-10-31,12:00,2018-10-31,13:00,Övning,,IS1500,U21,,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-10-31,13:00,2018-10-31,15:00,Övning,DD1368 Helklass,DD1368,"E33, E34",,Dena Hussain,CDATE2
+2018-11-01,08:00,2018-11-01,10:00,Föreläsning,DD1351 Helklass,DD1351,Q1,,Johan Karlander,"CDATE2, CINTE2, CINTE3"
+2018-11-01,13:00,2018-11-01,15:00,Övning,DD1351 Helklass,DD1351,"L51, L52, Q33, Q36",,"Alf Thomas Sjöland, Johan Karlander","CDATE2, CINTE2, CINTE3"
+2018-11-01,15:00,2018-11-01,17:00,Föreläsning,,ME1010,F2,,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-11-02,08:00,2018-11-02,12:00,Laboration,DD1368 Helklass,DD1368,"4V2Röd (Röd), 4V4Gul (Gul), 4V5Grö (Grön), 5V2Kar (Karmosin)",,,CDATE2
+2018-11-02,13:00,2018-11-02,17:00,Laboration,DD1368 Helklass,DD1368,"4V2Röd (Röd), 5V1Grå (Grå), 5V2Kar (Karmosin), 5V4Mag (Magenta)",,,"CDATE2, CLGYM3-TIKT"
+2018-11-03,00:00,2018-11-04,00:00,Alla helgons dag,,,,,,
+2018-11-05,08:00,2018-11-05,10:00,Föreläsning,DD1351 Helklass,DD1351,F2,,Johan Karlander,"CDATE2, CINTE2, CINTE3"
+2018-11-05,13:00,2018-11-05,15:00,Föreläsning,DD1368 Helklass,DD1368,Q1,,Dena Hussain,CDATE2
+2018-11-05,15:00,2018-11-05,19:00,Laboration,,IS1500,5O1Spe (Spelhallen),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-11-06,08:00,2018-11-06,12:00,Laboration,,IS1500,4V4Gul (Gul),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-11-06,08:00,2018-11-06,12:00,Övning,DD1368 Helklass,DD1368,"D32, D33, D34, D35",,Dena Hussain,"CDATE2, CLGYM3-TIKT"
+2018-11-06,12:00,2018-11-06,14:00,KTH-Global,,,,,,
+2018-11-06,14:00,2018-11-06,18:00,Laboration,,IS1500,5O1Spe (Spelhallen),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-11-06,14:00,2018-11-06,18:00,Övning,DD1368 Helklass,DD1368,"Q11, Q13, Q22, Q24",,Dena Hussain,CDATE2
+2018-11-07,08:00,2018-11-07,10:00,Kontrollskrivning,DD1351 Helklass,DD1351,"Q31, Q33, Q34, Q36, V01, V11, V22, V32",,,"CDATE2, CINTE2, CINTE3"
+2018-11-07,12:00,2018-11-07,14:00,KTH-Global,,,,,,
+2018-11-07,14:00,2018-11-07,15:00,Övning,,ME1010,,,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-11-07,15:00,2018-11-07,16:00,Övning,,ME1010,,,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-11-07,16:00,2018-11-07,17:00,Övning,,ME1010,,,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-11-07,17:00,2018-11-07,18:00,Övning,,ME1010,,,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-11-08,08:00,2018-11-08,12:00,Laboration,DD1368 Helklass,DD1368,"4V3Ora (Orange), 5O1Spe (Spelhallen), 5V2Kar (Karmosin)",,,"CDATE2, CLGYM3-TIKT"
+2018-11-08,08:00,2018-11-08,12:00,Laboration,,IS1500,4V2Röd (Röd),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-11-08,12:00,2018-11-08,13:00,Övning,,IS1500,U21,,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-11-08,12:00,2018-11-08,14:00,KTH-Global,,,,,,
+2018-11-08,16:00,2018-11-08,20:00,Laboration,,IS1500,5O1Spe (Spelhallen),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-11-09,08:00,2018-11-09,12:00,Laboration,DD1368 Helklass,DD1368,"4V3Ora (Orange), 5O1Spe (Spelhallen), 5V2Kar (Karmosin)",,,CDATE2
+2018-11-09,10:00,2018-11-09,11:00,Övning,,ME1010,,,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-11-09,11:00,2018-11-09,12:00,Övning,,ME1010,,,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-11-09,13:00,2018-11-09,14:00,Övning,,ME1010,,,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-11-09,14:00,2018-11-09,15:00,Övning,,ME1010,,,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-11-09,15:00,2018-11-09,17:00,Datorlaboration,DD1351 Helklass,DD1351,"4V5Grö (Grön), 5O1Spe (Spelhallen), 5O2Spo (Sporthallen), 5V1Grå (Grå), 5V2Kar (Karmosin), 5V3Vit (Vit), 5V4Mag (Magenta)",,"Alf Thomas Sjöland, Johan Karlander","CDATE2, CINTE2, CINTE3"
+2018-11-12,08:00,2018-11-12,10:00,Övning,"IS1500 grupp A, IS1500 grupp B",IS1500,"V32, V34",,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-11-12,13:00,2018-11-12,15:00,Föreläsning,DD1351 Helklass,DD1351,M1,,Johan Karlander,"CDATE2, CINTE2, CINTE3"
+2018-11-12,15:00,2018-11-12,17:00,Övning,"IS1500 grupp C, IS1500 grupp D",IS1500,"Q33, Q34",,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-11-13,10:00,2018-11-13,12:00,Föreläsning,DD1351 Helklass,DD1351,D1,,Johan Karlander,"CDATE2, CINTE2, CINTE3"
+2018-11-13,13:00,2018-11-13,17:00,Laboration,DD1368 Helklass,DD1368,"4V5Grö (Grön), 5O1Spe (Spelhallen), 5O2Spo (Sporthallen), 5V2Kar (Karmosin)",,,"CDATE2, CLGYM3-TIKT"
+2018-11-13,13:00,2018-11-13,17:00,Laboration,,IS1500,4V6Bru (Brun),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-11-14,08:00,2018-11-14,17:00,Seminarium,,"DD1390, DD1390, DD1390, DD1391, DD1391","1625, 4523, 523, F0, Interaktionsdesignstudion",,"Christian Smith, Dena Hussain, Douglas Wikström, Johan Karlander, Mads Dam, Marcus Dicander, Mårten Björkman, Olof Bälter, Stefan Nilsson, Viggo Kann, Örjan Ekeberg","CDATE1, CDATE2, CDATE3, CDATE3-STEK"
+2018-11-14,13:00,2018-11-14,17:00,Laboration,,IS1500,5O1Spe (Spelhallen),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-11-15,08:00,2018-11-15,12:00,Laboration,DD1368 Helklass,DD1368,"4V2Röd (Röd), 4V4Gul (Gul), 5O1Spe (Spelhallen)",,,CDATE2
+2018-11-15,10:00,2018-11-15,12:00,Övning,"IS1500 grupp A, IS1500 grupp B",IS1500,"V32, V34",,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-11-15,13:00,2018-11-15,15:00,Föreläsning,,ME1010,Q1,,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-11-15,15:00,2018-11-15,17:00,Övning,"IS1500 grupp C, IS1500 grupp D",IS1500,"Q33, Q34",,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-11-16,10:00,2018-11-16,12:00,Datorlaboration,DD1351 Helklass,DD1351,"4V2Röd (Röd), 4V3Ora (Orange), 5O1Spe (Spelhallen), 5O2Spo (Sporthallen), 5V1Grå (Grå), 5V2Kar (Karmosin), 5V3Vit (Vit)",,"Alf Thomas Sjöland, Johan Karlander","CDATE2, CINTE2, CINTE3"
+2018-11-16,12:00,2018-11-16,13:00,Övning,,IS1500,U21,,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-11-16,13:00,2018-11-16,17:00,Laboration,,IS1500,5V4Mag (Magenta),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-11-19,08:00,2018-11-19,12:00,Laboration,DD1368 Helklass,DD1368,"4V2Röd (Röd), 5O1Spe (Spelhallen), 5V2Kar (Karmosin)",,,CDATE2
+2018-11-19,12:00,2018-11-19,13:00,Övning,,IS1500,U21,,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-11-19,13:00,2018-11-19,17:00,Laboration,DD1368 Helklass,DD1368,"4V3Ora (Orange), 5O1Spe (Spelhallen), 5V2Kar (Karmosin)",,,"CDATE2, CLGYM3-TIKT"
+2018-11-20,10:00,2018-11-20,12:00,Föreläsning,DD1351 Helklass,DD1351,D1,,Johan Karlander,"CDATE2, CINTE2, CINTE3"
+2018-11-20,10:00,2018-11-20,16:00,Armada,,,,,,
+2018-11-21,08:00,2018-11-21,10:00,Övning,DD1351 Helklass,DD1351,"U21, U31, U41, U51",,"Alf Thomas Sjöland, Johan Karlander","CDATE2, CINTE2, CINTE3"
+2018-11-21,10:00,2018-11-21,15:00,Armada,,,,,,
+2018-11-21,12:00,2018-11-21,13:00,Övning,,IS1500,U21,,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-11-21,13:00,2018-11-21,17:00,Seminarium,,"DD1390, DD1390, DD1390, DD1391, DD1391","1625, 4523, 523, F0, Interaktionsdesignstudion",,"Christian Smith, Dena Hussain, Douglas Wikström, Johan Karlander, Mads Dam, Marcus Dicander, Mårten Björkman, Olof Bälter, Stefan Nilsson, Viggo Kann, Örjan Ekeberg","CDATE1, CDATE2, CDATE3, CDATE3-STEK"
+2018-11-22,08:00,2018-11-22,12:00,Datorlaboration,DD1351 Helklass,DD1351,"4V2Röd (Röd), 4V4Gul (Gul), 5O1Spe (Spelhallen), 5O2Spo (Sporthallen), 5V1Grå (Grå), 5V4Mag (Magenta)",,"Alf Thomas Sjöland, Johan Karlander","CDATE2, CINTE2, CINTE3"
+2018-11-22,15:00,2018-11-22,17:00,Föreläsning,,IS1500,Q1,,David Broman,"CDATE2, CLGYM2-TIKT"
+2018-11-23,08:00,2018-11-23,10:00,Föreläsning,,IS1500,Q1,,David Broman,"CDATE2, CLGYM2-TIKT"
+2018-11-23,10:00,2018-11-23,12:00,Föreläsning,DD1351 Helklass,DD1351,Q1,,Johan Karlander,"CDATE2, CINTE2, CINTE3"
+2018-11-23,13:00,2018-11-23,15:00,Föreläsning,,ME1010,Q1,,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-11-26,08:00,2018-11-26,10:00,Föreläsning,,DD1393,D1,,"Björn Thuresson, Dena Hussain","CDATE2, CLGYM3-TIKT"
+2018-11-26,12:00,2018-11-26,13:00,Övning,,IS1500,U21,,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-11-26,13:00,2018-11-26,15:00,Övning,"IS1500 grupp C, IS1500 grupp D",IS1500,"Q33, Q34",,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-11-26,15:00,2018-11-26,17:00,Övning,"IS1500 grupp A, IS1500 grupp B",IS1500,"Q33, Q34",,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-11-27,08:00,2018-11-27,10:00,Föreläsning,DD1351 Helklass,DD1351,F2,,Johan Karlander,"CDATE2, CINTE2, CINTE3"
+2018-11-27,10:00,2018-11-27,12:00,Föreläsning,DD1368 Helklass,DD1368,F1 (Alfvénsalen),,Dena Hussain,"CDATE2, CLGYM3-TIKT"
+2018-11-27,13:00,2018-11-27,15:00,Övning,"IS1500 grupp A, IS1500 grupp B",IS1500,"V32, V34",,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-11-27,15:00,2018-11-27,17:00,Övning,"IS1500 grupp C, IS1500 grupp D",IS1500,"V32, V34",,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-11-28,10:00,2018-11-28,11:00,Föreläsning,,ME1010,,,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-11-28,11:00,2018-11-28,12:00,Föreläsning,,ME1010,,,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-11-28,12:00,2018-11-28,13:00,Övning,,IS1500,U21,,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-11-28,13:00,2018-11-28,14:00,Föreläsning,,ME1010,,,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-11-28,14:00,2018-11-28,15:00,Föreläsning,,ME1010,,,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-11-28,15:00,2018-11-28,17:00,Övning,DD1351 Helklass,DD1351,"Q31, Q33, Q34, Q36",,"Alf Thomas Sjöland, Johan Karlander","CDATE2, CINTE2, CINTE3"
+2018-11-29,13:00,2018-11-29,15:00,Datorlaboration,DD1351 Helklass,DD1351,"4V5Grö (Grön), 4V6Bru (Brun), 5O1Spe (Spelhallen), 5O2Spo (Sporthallen), 5V1Grå (Grå), 5V2Kar (Karmosin), 5V3Vit (Vit), 5V4Mag (Magenta)",,"Alf Thomas Sjöland, Johan Karlander","CDATE2, CINTE2, CINTE3"
+2018-11-29,15:00,2018-11-29,17:00,Föreläsning,,DD1393,E1,,"Björn Thuresson, Dena Hussain","CDATE2, CLGYM3-TIKT"
+2018-11-30,08:00,2018-11-30,12:00,Laboration,DD1368 Helklass,DD1368,"4V5Grö (Grön), 5O1Spe (Spelhallen), 5O2Spo (Sporthallen), 5V2Kar (Karmosin)",Omlab,,CDATE2
+2018-11-30,10:00,2018-11-30,11:00,Föreläsning,,ME1010,,,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-11-30,11:00,2018-11-30,12:00,Föreläsning,,ME1010,,,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-11-30,13:00,2018-11-30,14:00,Föreläsning,,ME1010,,,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-11-30,13:00,2018-11-30,17:00,Laboration,DD1368 Helklass,DD1368,"4V2Röd (Röd), 4V3Ora (Orange), 4V4Gul (Gul)",Omlab,,"CDATE2, CLGYM3-TIKT"
+2018-11-30,14:00,2018-11-30,15:00,Föreläsning,,ME1010,,,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-12-03,08:00,2018-12-03,10:00,Föreläsning,DD1351 Helklass,DD1351,E1,,Johan Karlander,"CDATE2, CINTE2, CINTE3"
+2018-12-03,12:00,2018-12-03,13:00,Övning,,IS1500,U21,,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-12-04,08:00,2018-12-04,10:00,Föreläsning,DD1351 Helklass,DD1351,F2,,Johan Karlander,"CDATE2, CINTE2, CINTE3"
+2018-12-04,15:00,2018-12-04,17:00,Föreläsning,,DD1393,E1,,"Björn Thuresson, Dena Hussain","CDATE2, CLGYM3-TIKT"
+2018-12-05,12:00,2018-12-05,13:00,Övning,,IS1500,U21,,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-12-05,13:00,2018-12-05,17:00,Laboration,DD1368 Helklass,DD1368,"4V2Röd (Röd), 5O1Spe (Spelhallen), 5O2Spo (Sporthallen), 5V2Kar (Karmosin)",Omlab,,"CDATE2, CLGYM3-TIKT"
+2018-12-06,10:00,2018-12-06,12:00,Datorlaboration,DD1351 Helklass,DD1351,"4V2Röd (Röd), 4V4Gul (Gul), 5O1Spe (Spelhallen), 5O2Spo (Sporthallen), 5V1Grå (Grå), 5V2Kar (Karmosin), 5V3Vit (Vit)",,"Alf Thomas Sjöland, Johan Karlander","CDATE2, CINTE2, CINTE3"
+2018-12-06,13:00,2018-12-06,15:00,Föreläsning,,ME1010,D1,,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-12-06,15:00,2018-12-06,17:00,Föreläsning,,DD1393,D1,,"Björn Thuresson, Dena Hussain","CDATE2, CLGYM3-TIKT"
+2018-12-07,08:00,2018-12-07,12:00,Laboration,DD1368 Helklass,DD1368,"4V2Röd (Röd), 4V3Ora (Orange), 5O1Spe (Spelhallen)",Omlab,,CDATE2
+2018-12-07,08:00,2018-12-07,10:00,Lektion,"IS1500 grupp A, IS1500 grupp B",IS1500,U51,,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-12-07,10:00,2018-12-07,12:00,Lektion,"IS1500 grupp C, IS1500 grupp D",IS1500,U51,,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-12-07,13:00,2018-12-07,15:00,Lektion,"IS1500 grupp E, IS1500 grupp F",IS1500,U51,,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-12-07,15:00,2018-12-07,17:00,Lektion,"IS1500 grupp G, IS1500 grupp H",IS1500,U51,,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-12-10,08:00,2018-12-10,10:00,Föreläsning,,IS1500,Q1,,David Broman,"CDATE2, CLGYM2-TIKT"
+2018-12-10,10:00,2018-12-10,12:00,Övning,DD1351 Helklass,DD1351,"Q31, Q33, Q34, Q36",,"Alf Thomas Sjöland, Johan Karlander","CDATE2, CINTE2, CINTE3"
+2018-12-11,08:00,2018-12-11,12:00,Laboration,,IS1500,4V2Röd (Röd),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-12-11,13:00,2018-12-11,15:00,Föreläsning,,ME1010,F2,,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-12-11,15:00,2018-12-11,17:00,Föreläsning,,DD1393,D1,,"Björn Thuresson, Dena Hussain","CDATE2, CLGYM3-TIKT"
+2018-12-12,08:00,2018-12-12,12:00,Laboration,,IS1500,4V2Röd (Röd),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-12-12,13:00,2018-12-12,17:00,Laboration,DD1368 Helklass,DD1368,"4V4Gul (Gul), 5O1Spe (Spelhallen), 5O2Spo (Sporthallen)",Omlab,,"CDATE2, CLGYM3-TIKT"
+2018-12-12,13:00,2018-12-12,17:00,Laboration,,IS1500,4V2Röd (Röd),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-12-13,08:00,2018-12-13,12:00,Laboration,DD1368 Helklass,DD1368,"4V3Ora (Orange), 4V4Gul (Gul), 5O1Spe (Spelhallen)",Omlab,,CDATE2
+2018-12-13,08:00,2018-12-13,12:00,Laboration,,IS1500,4V2Röd (Röd),,"David Broman, Fredrik Lundevall, Gunnar Johansson","CDATE2, CLGYM2-TIKT"
+2018-12-13,13:00,2018-12-13,15:00,Föreläsning,,DD1393,F2,,"Björn Thuresson, Dena Hussain","CDATE2, CLGYM3-TIKT"
+2018-12-14,08:00,2018-12-14,10:00,Övning,"ME1010 grupp D, ME1010 grupp E, ME1010 grupp F",ME1010,"E32, E33, E36",,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-12-14,10:00,2018-12-14,12:00,Övning,"ME1010 grupp A, ME1010 grupp B, ME1010 grupp C",ME1010,"D32, D33, D34",,"Gisela Bäcklander, Maria Lindhagen",CDATE2
+2018-12-14,13:00,2018-12-14,17:00,Datorlaboration,DD1351 Helklass,DD1351,"4V2Röd (Röd), 4V3Ora (Orange), 4V4Gul (Gul), 4V5Grö (Grön), 4V6Bru (Brun), 5V2Kar (Karmosin), 5V3Vit (Vit)",,"Alf Thomas Sjöland, Johan Karlander","CDATE2, CINTE2, CINTE3"
+2018-12-24,00:00,2018-12-25,00:00,Julafton,,,,,,
+2018-12-25,00:00,2018-12-26,00:00,Juldagen,,,,,,
+2018-12-26,00:00,2018-12-27,00:00,Annandag jul,,,,,,
+2018-12-31,00:00,2019-01-01,00:00,Nyårsafton,,,,,,
+2019-01-07,08:00,2019-01-07,13:00,Tentamen,DD1368 Helklass,DD1368,"M31, M32, M33, M35, M36, M38",,Dena Hussain,"CDATE2, CLGYM3-TIKT"
+2019-01-09,08:00,2019-01-09,13:00,Tentamen,DD1351 Helklass,DD1351,"F1 (Alfvénsalen), F2, Q1, V3",,"Alf Thomas Sjöland, Johan Karlander","CDATE2, CINTE2, CINTE3"
+2019-01-12,09:00,2019-01-12,14:00,Tentamen,,IS1500,"Ka-204, Ka-205, Ka-208, Ka-210, Ka-301, Ka-303, Ka-304, Ka-308, Ka-Sal A (Sal Östen Mäkitalo), Ka-Sal B (Sal Peter Weissglas), Ka-Sal C (Sal Sven-Olof Öhrvik)",,David Broman,"CDATE2, CLGYM2-TIKT"
+2019-01-14,10:00,2019-01-14,12:00,Föreläsning,,SF1626,Q1,,Roy Skjelnes,"CDATE2, CMAST1, CMETE2"
